@@ -6,6 +6,10 @@
 # dotenv files
 .env
 
+# Ignore any files in /bin and /obj Folders
+**/bin/*
+**/obj/*
+
 # User-specific files
 *.rsuser
 *.suo
